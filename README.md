@@ -9,3 +9,10 @@ Atualizações feitas na versão 01:
 
 .Definição de paleta de cores;
 
+Atualizações feitas na versão 02: 
+
+.Ultilizacao dos aprendizados no codigo
+
+.implementacao de modo claro e escuro
+
+.criacao de logo independente
